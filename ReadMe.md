@@ -1,4 +1,7 @@
 Note:
+
+This project is a small project for web testing on Hotel Dominic Demo, a reservation hotel room demo website. Using Java, Selenium and Cucumber.
+
 - For registration feature. Please change the input for a new email
   1. In the register.feature change **email** on Example outline
   
