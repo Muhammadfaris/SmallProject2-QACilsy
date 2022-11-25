@@ -1,0 +1,6 @@
+stepDef\HomePageSteps.class
+stepDef\RegisterSteps.class
+stepDef\BaseTest.class
+stepDef\LoginSteps.class
+stepDef\BookingFlowSteps.class
+TestRunner.class

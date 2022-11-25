@@ -1,0 +1,10 @@
+pages\OrderPage.class
+pages\PayConfirmationPage.class
+utils\WebElementUtils.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\ResultSearchHotelPage.class
+pages\SuccessPayPage.class
+utils\DriverUtils.class
+pages\RegistrationPage.class
+pages\MyAccountPage.class
