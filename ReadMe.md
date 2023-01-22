@@ -5,6 +5,8 @@ Website to test : http://qa.cilsy.id:8080/
 
 ## About the project
 
+Hotel Dominic Parks is a reservation website specifically Hotel.
+
 ## Framework
 
 * Java & Maven
