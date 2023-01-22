@@ -1,12 +1,16 @@
-Note:
+## SmallProject2-QACilsy
 
-This project is a small project for web testing on Hotel Dominic Demo, a reservation hotel room demo website. Using Java, Selenium and Cucumber.
+Website to test : http://qa.cilsy.id:8080/
 
-- For registration feature. Please change the input for a new email
-  1. In the register.feature change **email** on Example outline
-  
-- For run this project : **mvn clean verify** in your terminal
-- Then go to cucumber report on :
-  - [**target/cucumber-report-html**](target/cucumber-report-html/cucumber-html-reports/feature-overview.html)
 
-  
+## About the project
+
+## Framework
+
+* Java & Maven
+* Selenium : https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+* Cucumber : https://mvnrepository.com/artifact/io.cucumber/cucumber-testng
+
+## Running Test
+
+## Test Case & Report Documentation
