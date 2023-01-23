@@ -8,10 +8,9 @@ Website to test : http://qa.cilsy.id:8080/
 Hotel Dominic Parks is a reservation website specifically Hotel.This project covers several function for UI testing:
 
 * Sign Up Flow
-* Log In Flow
+* Log In Page Features
 * Home Page Features
 * Booking Flow
-* Log In Page Features 
 * Hotel Page Features 
 
 ## Framework
@@ -22,6 +21,7 @@ Hotel Dominic Parks is a reservation website specifically Hotel.This project cov
 
 ## Running Test
 
-* Open runner file and make sure the tag is @regression then press Run button
-
-## Test Case & Report Documentation
+* Open runner file and make sure the tag is @regression
+* Then write **mvn clean verify** in your IDE terminal
+* Then go to cucumber report on :
+  - [**target/cucumber-report-html**](target/cucumber-report-html/cucumber-html-reports/feature-overview.html)
